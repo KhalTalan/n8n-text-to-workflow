@@ -1,0 +1,6 @@
+[submodule "n8n-core"]
+	path = n8n-core
+	url = https://github.com/n8n-io/n8n.git
+[submodule "n8n-docs-core"]
+	path = n8n-docs-core
+	url = https://github.com/n8n-io/n8n-docs.git
