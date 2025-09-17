@@ -1,0 +1,197 @@
+[
+  {
+    "title": "n8n Integrations Documentation and Guides",
+    "description": "Access n8n integrations documentation and guides. Find comprehensive resources to help you master app integrations using different types of nodes to improve your automation workflows.",
+    "path": "index.md"
+  },
+  {
+    "title": "Airtable node documentation",
+    "description": "Learn how to use the Airtable node in n8n",
+    "path": "builtin/app-nodes/n8n-nodes-base.airtable/index.md"
+  },
+  {
+    "title": "Discord node documentation",
+    "description": "Learn how to use the Discord node in n8n",
+    "path": "builtin/app-nodes/n8n-nodes-base.discord/index.md"
+  },
+  {
+    "title": "Gmail node documentation",
+    "description": "Learn how to use the Gmail node in n8n",
+    "path": "builtin/app-nodes/n8n-nodes-base.gmail/index.md"
+  },
+  {
+    "title": "Google Calendar node documentation",
+    "description": "Learn how to use the Google Calendar node in n8n",
+    "path": "builtin/app-nodes/n8n-nodes-base.googlecalendar/index.md"
+  },
+  {
+    "title": "Google Drive node documentation",
+    "description": "Learn how to use the Google Drive node in n8n",
+    "path": "builtin/app-nodes/n8n-nodes-base.googledrive/index.md"
+  },
+  {
+    "title": "Google Sheets",
+    "description": "Documentation for the Google Sheets node in n8n, a workflow automation platform. Includes details of operations and configuration, and links to examples and credentials information.",
+    "path": "builtin/app-nodes/n8n-nodes-base.googlesheets/index.md"
+  },
+  {
+    "title": "MySQL node documentation",
+    "description": "Learn how to use the MySQL node in n8n",
+    "path": "builtin/app-nodes/n8n-nodes-base.mysql/index.md"
+  },
+  {
+    "title": "Notion node documentation",
+    "description": "Learn how to use the Notion node in n8n",
+    "path": "builtin/app-nodes/n8n-nodes-base.notion/index.md"
+  },
+  {
+    "title": "Postgres node documentation",
+    "description": "Learn how to use the Postgres node in n8n",
+    "path": "builtin/app-nodes/n8n-nodes-base.postgres/index.md"
+  },
+  {
+    "title": "Supabase node documentation",
+    "description": "Learn how to use the Supabase node in n8n",
+    "path": "builtin/app-nodes/n8n-nodes-base.supabase/index.md"
+  },
+  {
+    "title": "Telegram node documentation",
+    "description": "Documentation for the Telegram node in n8n, a workflow automation platform. Includes details of operations and configuration, and links to examples and credentials information.",
+    "path": "builtin/app-nodes/n8n-nodes-base.telegram/index.md"
+  },
+  {
+    "title": "WhatsApp Business Cloud node documentation",
+    "description": "Learn how to use the WhatsApp Business Cloud node in n8n",
+    "path": "builtin/app-nodes/n8n-nodes-base.whatsapp/index.md"
+  },
+  {
+    "title": "OpenAI node documentation",
+    "description": "Learn how to use the OpenAI node in n8n",
+    "path": "builtin/app-nodes/n8n-nodes-langchain.openai/index.md"
+  },
+  {
+    "title": "Cluster nodes",
+    "description": "Understand cluster nodes in n8n, and browse the cluster nodes library.",
+    "path": "builtin/cluster-nodes/index.md"
+  },
+  {
+    "title": "Root nodes",
+    "description": "Understand root nodes in n8n, and browse the root nodes library.",
+    "path": "builtin/cluster-nodes/root-nodes/index.md"
+  },
+  {
+    "title": "AI Agent node documentation",
+    "description": "Learn how to use the AI Agent node in n8n",
+    "path": "builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/index.md"
+  },
+  {
+    "title": "Question and Answer Chain node documentation",
+    "description": "Learn how to use the Question and Answer Chain node in n8n",
+    "path": "builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.chainretrievalqa/index.md"
+  },
+  {
+    "title": "Sub-nodes",
+    "description": "Understand sub-nodes in n8n, and browse the sub-nodes library.",
+    "path": "builtin/cluster-nodes/sub-nodes/index.md"
+  },
+  {
+    "title": "Ollama Chat Model node documentation",
+    "description": "Learn how to use the Ollama Chat Model node in n8n",
+    "path": "builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.lmchatollama/index.md"
+  },
+  {
+    "title": "OpenAI Chat Model node documentation",
+    "description": "Learn how to use the OpenAI Chat Model node in n8n",
+    "path": "builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.lmchatopenai/index.md"
+  },
+  {
+    "title": "Ollama Model node documentation",
+    "description": "Learn how to use the Ollama Model node in n8n",
+    "path": "builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.lmollama/index.md"
+  },
+  {
+    "title": "Simple Memory node documentation",
+    "description": "Learn how to use the Simple Memory node in n8n",
+    "path": "builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.memorybufferwindow/index.md"
+  },
+  {
+    "title": "Structured Output Parser node documentation",
+    "description": "Learn how to use the Structured Output Parser node in n8n",
+    "path": "builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.outputparserstructured/index.md"
+  },
+  {
+    "title": "Code node documentation",
+    "description": "Documentation for the Code node in n8n, a workflow automation platform. Includes guidance on usage, and links to examples.",
+    "path": "builtin/core-nodes/n8n-nodes-base.code/index.md"
+  },
+  {
+    "title": "Execute Command",
+    "description": "Documentation for the Execute Command node in n8n, a workflow automation platform. Includes guidance on usage, and links to examples.",
+    "path": "builtin/core-nodes/n8n-nodes-base.executecommand/index.md"
+  },
+  {
+    "title": "HTTP Request node documentation",
+    "description": "Learn how to use the HTTP Request node in n8n",
+    "path": "builtin/core-nodes/n8n-nodes-base.httprequest/index.md"
+  },
+  {
+    "title": "Remove Duplicates node documentation",
+    "description": "Documentation for the Remove Duplicates node in n8n, a workflow automation platform. Includes guidance on usage and links to examples.",
+    "path": "builtin/core-nodes/n8n-nodes-base.removeduplicates/index.md"
+  },
+  {
+    "title": "Schedule Trigger node documentation",
+    "description": "Learn how to use the Schedule Trigger node in n8n",
+    "path": "builtin/core-nodes/n8n-nodes-base.scheduletrigger/index.md"
+  },
+  {
+    "title": "Webhook node documentation",
+    "description": "Learn how to use the Webhook node in n8n",
+    "path": "builtin/core-nodes/n8n-nodes-base.webhook/index.md"
+  },
+  {
+    "title": "Chat Trigger node documentation",
+    "description": "Learn how to use the Chat Trigger node in n8n",
+    "path": "builtin/core-nodes/n8n-nodes-langchain.chattrigger/index.md"
+  },
+  {
+    "title": "Google credentials",
+    "description": "Documentation for Google credentials. Use these credentials to authenticate Google in n8n, a workflow automation platform.",
+    "path": "builtin/credentials/google/index.md"
+  },
+  {
+    "title": "IMAP credentials",
+    "description": "Documentation for IMAP credentials. Use these credentials to authenticate IMAP in n8n, a workflow automation platform.",
+    "path": "builtin/credentials/imap/index.md"
+  },
+  {
+    "title": "Send Email credentials",
+    "description": "Documentation for Send Email credentials. Use these credentials to authenticate Send Email in n8n, a workflow automation platform.",
+    "path": "builtin/credentials/sendemail/index.md"
+  },
+  {
+    "title": "Facebook Trigger",
+    "description": "Learn how to use the Facebook Trigger node in n8n",
+    "path": "builtin/trigger-nodes/n8n-nodes-base.facebooktrigger/index.md"
+  },
+  {
+    "title": "Gmail Trigger node documentation",
+    "description": "Learn how to use the Gmail Trigger node in n8n",
+    "path": "builtin/trigger-nodes/n8n-nodes-base.gmailtrigger/index.md"
+  },
+  {
+    "title": "Google Drive Trigger node documentation",
+    "description": "Learn how to use the Google Drive Trigger node in n8n",
+    "path": "builtin/trigger-nodes/n8n-nodes-base.googledrivetrigger/index.md"
+  },
+  {
+    "title": "Google Sheets Trigger node documentation",
+    "description": "Learn how to use the Google Sheets Trigger node in n8n",
+    "path": "builtin/trigger-nodes/n8n-nodes-base.googlesheetstrigger/index.md"
+  },
+  {
+    "title": "Telegram Trigger node documentation",
+    "description": "Learn how to use the Telegram Trigger node in n8n",
+    "path": "builtin/trigger-nodes/n8n-nodes-base.telegramtrigger/index.md"
+  }
+]

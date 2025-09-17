@@ -29,7 +29,6 @@ n8n-text-to-workflow/
 │   │   └── tools.py          # Contains the core functions for fetching data from 'data/' folder.
 │   ├── __init__.py
 │   └── main.py               # The main entry point for running the application.
-├── pyproject.toml            # Used by 'uv' for dependency management.
 ├── requirements.txt          # Exported list of project dependencies.
 └── README.md
 ```
@@ -53,12 +52,8 @@ git submodule update --init --recursive
 ```
 
 
-# Create a virtual environment named `.venv`
+# Create a virtual environment named `.venv` and activate it 
 ```
 uv venv
-```
-
-# Activate the virtual environment
-```
 .venv\Scripts\activate.bat
 ```
